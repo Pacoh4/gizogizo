@@ -1,0 +1,24 @@
+.box{
+   padding-top: 0%;
+    background: linear-gradient(rgba(92, 5, 109, 0.337), rgba(175, 6, 197, 0.337)), url('tof.jpg');
+    height: 100%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.dos{
+    padding-top: 0%;
+     background: linear-gradient(rgba(92, 5, 109, 0.337), rgba(175, 6, 197, 0.337)), url('code.jpg');
+     height: 100%;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ 
+ }
+
+
+
+
+
